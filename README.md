@@ -22,9 +22,8 @@ We employed the TF-IDF vectorization technique to convert textual messages into 
 
 We utilized TF-IDF vectors and normalized them with StandardScalar as features for the Gaussian Naive Bayes model, automating spam detection while achieving high classification accuracy.
 
-## Clustering (DBSCAN)
+## Clustering (LMeans)
 
-In pursuit of a robust spam classification framework, we transitioned from KMeans to DBSCAN clustering. DBSCAN grouped similar messages, forming the basis for training various classification models, including Random Forest, XGBoost, Logistic Regression, and Gaussian Naive Bayes.
 
 ## Conclusion
 
