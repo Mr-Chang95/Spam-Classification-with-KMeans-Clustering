@@ -1,4 +1,4 @@
-# Spam Message Classification Project
+# Spam Message Classification Project with KMeans Clustering
 
 ## Introduction
 
