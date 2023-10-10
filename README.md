@@ -22,7 +22,7 @@ We employed the TF-IDF vectorization technique to convert textual messages into 
 
 We utilized TF-IDF vectors and normalized them with StandardScalar as features for the Gaussian Naive Bayes model, automating spam detection while achieving high classification accuracy.
 
-## Clustering (LMeans)
+## Clustering (KMeans)
 
 
 ## Conclusion
